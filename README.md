@@ -1,6 +1,6 @@
 ### Olá! Eu sou Marclyson Rodrigues ✌️
  
-![Marclyson Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniRocham&show_icons=true&theme=radical)
+![Marclyson Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=marclyson&show_icons=true&theme=radical)
  
 ## Tecnologias que uso no meu dia
  
