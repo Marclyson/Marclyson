@@ -13,10 +13,11 @@
 <img align="center" alt="javaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br/>
- 
+<!---
 Apaixonado por tecnologia, visando mudar a vida das pessoas através da programação.
- 
-<!---## Repositórios mais vistos:
+-->
+<!---
+## Repositórios mais vistos:
 - [RPA - Automação de registros ANVISA](https://github.com/ViniRocham/RPA-consultas-anvisa)<br/>
 - [Jogo de cartas Yugioh](https://github.com/alvccpj/Yugioh)<BR/>
 -->
