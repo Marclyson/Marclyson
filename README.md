@@ -16,7 +16,7 @@
  
 Apaixonado por tecnologia, visando mudar a vida das pessoas através da programação.
  
-//## Repositórios mais vistos:
-//- [RPA - Automação de registros ANVISA](https://github.com/ViniRocham/RPA-consultas-anvisa)<br/>
-//- [Jogo de cartas Yugioh](https://github.com/alvccpj/Yugioh)<BR/>
+<>## Repositórios mais vistos:
+<>- [RPA - Automação de registros ANVISA](https://github.com/ViniRocham/RPA-consultas-anvisa)<br/>
+<>- [Jogo de cartas Yugioh](https://github.com/alvccpj/Yugioh)<BR/>
  
