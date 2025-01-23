@@ -1,4 +1,4 @@
-### Olá! Eu sou Marclyson Rodrigues ✌️
+### Olá! Eu sou Marclyson Rodrigues
  
 ![Marclyson Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=marclyson&show_icons=true&theme=radical)
  
